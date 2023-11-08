@@ -241,7 +241,7 @@ Ensure that you have the following prerequisites installed on your system:
 
 You can start by cloning this repository to your local machine using Git:
 
-https://github.com/17sakthivel/README
+
 
 ### Step 2: Install Required Libraries
 In your Python environment, install the necessary  
